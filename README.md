@@ -1,11 +1,8 @@
 
-
-
 <div align="center">
     <h1 align="center">Hola, soy  <a href="https://gitgenio.github.io/portafolio/">Cesar</a> 👋</h1>
     <img  src="img/cesar&golum.jpeg"  width="80%"  alt="cesar&golum">
 </div>
-
 
 <div align="center">
     <h3>👨🏻‍💻 &nbsp;Sobre mí</h3>
@@ -15,7 +12,8 @@
         📚 &nbsp;En mi tiempo libre me gusta leer, practicar deportes, ver series y películas, y jugar videojuegos. <br>
     </p>
 
----  Mis Proyectos   -----
+--- Mis Proyectos -----
+
 <table>
     <tr>
         <td width="50%">
@@ -28,24 +26,20 @@
                 </p>
             </div>
         </td>
-
         <td width="50%">
-            <br>
-            <h3 align="center">Rock Paper Scissors</h3>
+            <h3 align="center"> Rock Paper Scissors </h3>
             <div align="center">
-                <a href="https://github.com/gitgenio/SimpleAndroidMVVM" target="_blank"><img
-                        src="img/rps.png" height="250" width ="400"  alt="Rock Paper Scissors"></a>
-                        <br>
-               
+                <a href="https://github.com/gitgenio/" ><img  src="img/rps.png" height="250" width ="400" alt="Rock Paper Scissors"></a>
+                <br><br>
                 </p> <strong>APLICACIÓN</strong>  web del Juego clásico Piedra, Papel o Tijera, construida con <strong> HTML, CSS y JavaScript. </strong></p>
             </div>
+        </td>                     
+    </tr>
 </table>
 </div>
 <br>
 
 <br>
-
-
 
 <p align="center">
     <a href="https://github.com/gitgenio">

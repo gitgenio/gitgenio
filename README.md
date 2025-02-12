@@ -1,4 +1,3 @@
-
 <div align="center">
     <h1 align="center">Hola, soy  <a href="https://gitgenio.github.io/portafolio/">Cesar</a> 👋</h1>
     <img  src="img/cesar&golum.jpeg"  width="80%"  alt="cesar&golum">
@@ -29,7 +28,7 @@
         <td width="50%">
             <h3 align="center"> Rock Paper Scissors </h3>
             <div align="center">
-                <a href="https://github.com/gitgenio/" ><img  src="img/rps.png" height="250" width ="400" alt="Rock Paper Scissors"></a>
+                <a href="https://gitgenio.github.io/RockPaperScissors/" ><img  src="img/rps.png" height="250" width ="400" alt="Rock Paper Scissors"></a>
                 <br><br>
                 </p> <strong>APLICACIÓN</strong>  web del Juego clásico Piedra, Papel o Tijera, construida con <strong> HTML, CSS y JavaScript. </strong></p>
             </div>
